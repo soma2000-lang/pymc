@@ -220,7 +220,11 @@ class BetaBinomial(Discrete):
     ========  =================================================================
     Support   :math:`x \in \{0, 1, \ldots, n\}`
     Mean      :math:`n \dfrac{\alpha}{\alpha + \beta}`
+<<<<<<< HEAD
     Variance  :math:`\dfrac{n \alpha \beta (\alpha+\beta+n)}{(\alpha+\beta)^2 (\alpha+\beta+1)}`
+=======
+    Variance  :math:`\dfrac{n \alpha \beta (\alpha+\beta+n)}{(\alpha+\beta)^2 (\alpha+\beta+1)}
+>>>>>>> 3e7a6c30 (Update discrete.py)
     ========  =================================================================
 
     Parameters
